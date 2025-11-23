@@ -26,7 +26,7 @@ O agente utiliza dados de localização para identificar:
 * As cidades pelas quais o usuário costuma passar diariamente
 * Possíveis variações climáticas entre diferentes regiões
   
-O texto é o seguinte: Eu moro no brasil, região sudeste na cidade de Sumaré. Porém, no meu dia eu passo pela cidade de Campinas e Indaiatuba, pois trabalho em Indaiatuba e Campinas está no meu percurso.
+O texto é o seguinte: <br> Eu moro no brasil, região sudeste na cidade de Sumaré. Porém, no meu dia eu passo pela cidade de Campinas e Indaiatuba, pois trabalho em Indaiatuba e Campinas está no meu percurso.
 Eu trabalho de segunda a sexta, portanto nesses dias eu passo por Campinas e Indaiatuba, porém de final de semana eu fico em Sumaré. Um arquivo **.txt** e anexado como **Conhecimento** ao agente.
 
 ### 🌦️ Informações sobre o tempo.
@@ -89,12 +89,12 @@ Podem ser perguntas do tipo: como me preparo para o dia de hoje, o que devo usar
 
  # Referências:
  
-  *➤ ai.azure.com*
+  *➤ ai.azure.com* <br>
   *➤ https://azure.microsoft.com/en-us/products/logic-apps/*
   
  # Agradecimentos:
 
-🎉  **WoMakerCode**
+🎉  **WoMakerCode** <br>
 🎉  **Microsoft**
 
  
