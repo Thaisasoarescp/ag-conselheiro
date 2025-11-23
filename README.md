@@ -39,20 +39,33 @@ Para a previsão do tempo, o agente usa a ação ⚙️ GetweatherMSN_Tool  forn
 Abaixo você pode inserir capturas de tela dos testes realizados:
 
 * **Print 1:**
+  
   Configurações do agente:
+  
   <img width="618" height="665" alt="image" src="https://github.com/user-attachments/assets/a6f759c7-0c4e-41ea-be27-af4954c47ab7" />
+
+
   <img width="649" height="650" alt="image" src="https://github.com/user-attachments/assets/39d47845-e49c-4d56-b027-1d9dd06998fe" />
   
-* **Print 2:** 
+  
+* **Print 2:**
+  
   Testes do Playground:
+  
   Essas são as intruções completas do agente 📝: Quero que você faça uma pesquisa sobre o tempo na região em que estou fornecida em um documento na aba conhecimentos. Inicialmente, acesse o aplicativo lógico das ações e obtenha as informações do clima. Posteriormente, forneça informações sobre roupas (roupas leves, casacos, tecidos recomendados etc.), cosméticos (protetor solar, hidratantes, produtos antioleosidade etc.) e acessórios (óculos de sol, guarda-chuva, gorro e muito mais) que devo usar para estar preparada e protegida para qualquer problema que eu possa enfrentar no meu dia relacionado às questões do clima. Quero que para a previsão do tempo você utilize apenas o GetweatherMSN_Tool e as informações pessoais, apenas o arquivo que forneço no conhecimento. Você só pode responder a essas ações, qualquer outra informação solicitada você responde: não tenho permissão para responder isso!
 Podem ser perguntas do tipo: como me preparo para o dia de hoje, o que devo usar, o que me espera hoje e variações dentro desse contexto.
 
   Usei a seguinte pergunta 🤔 ❓ :
+
+  
   <img width="1135" height="110" alt="image" src="https://github.com/user-attachments/assets/755bcf7f-2826-4ec6-901d-228ec67480bf" />
+  
 
 * **Print 3:** *[resultado obtido]*
+
+  
   <img width="1018" height="482" alt="image" src="https://github.com/user-attachments/assets/e71657c1-eb15-4fec-bfb3-52cdb55b7ccd" />
+  
 
 ### ✨ Espaço para Complementos
 
