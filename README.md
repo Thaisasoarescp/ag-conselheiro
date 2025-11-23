@@ -61,7 +61,7 @@ Podem ser perguntas do tipo: como me preparo para o dia de hoje, o que devo usar
   <img width="1135" height="110" alt="image" src="https://github.com/user-attachments/assets/755bcf7f-2826-4ec6-901d-228ec67480bf" />
   
 
-* **Print 3:** *[resultado obtido]*
+* **Print 3:** *Resultado Obtido*
 
   
   <img width="1018" height="482" alt="image" src="https://github.com/user-attachments/assets/e71657c1-eb15-4fec-bfb3-52cdb55b7ccd" />
