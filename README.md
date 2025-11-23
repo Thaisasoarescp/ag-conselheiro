@@ -89,8 +89,8 @@ Podem ser perguntas do tipo: como me preparo para o dia de hoje, o que devo usar
 
  # Referências:
  
-  ➤ ai.azure.com
-  ➤ https://azure.microsoft.com/en-us/products/logic-apps/
+  *➤ ai.azure.com*
+  *➤ https://azure.microsoft.com/en-us/products/logic-apps/*
   
  # Agradecimentos:
 
